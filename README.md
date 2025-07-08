@@ -60,4 +60,70 @@ Green Mart is a mobile application designed for an online shopping platform, int
 
 ## 📷 Screenshots
 
+**Login Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/24cb5036-bd43-4126-9f56-955a82ee6bde" />
+
+**Sign Up Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/4e89a10e-44e7-4a42-850f-ac62b246e548" />
+
+**Forgot Password Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/e2e2e6fd-4fa3-49f7-bf58-3febf0225bc1" />
+
+**Home Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/c4aad8a0-d0ac-4dd5-9a39-6cb29ec21649" />
+
+**Profile Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/a69393aa-a4ea-4196-a879-fd5b80714793" />
+
+**Cart Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/eecfc34b-190c-42fe-a02b-339a3f469b21" />
+
+**Tools Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/1084afd6-4ebd-4fc9-9c04-aa3a040c3dcb" />
+
+**Menu Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/7716b865-3a50-4fe1-8f92-d572848cd7fc" />
+
+**Side Navigation Bar of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/fffeacf1-f5cd-4922-9257-1fcf6b364d9b" />
+
+**OCR Scanner Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/6fac4372-ecb8-4211-921c-c5f41a3fd5a4" />
+
+**Language Translator Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/6a7b2bad-3610-42db-a684-13eaf672420e" />
+
+**Green Assistant Page of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/0bbc7e72-f30b-499e-a3c0-8c7e3bdf02fb" />
+
+**Bakery Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/d09e635b-7e44-4e21-ae8d-ad9ebce32e3e" />
+
+**Biscuits Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/6bcf9874-3c30-4608-95b0-8694ed50ea73" />
+
+**Diary Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/67c2e65a-35f7-4a9e-a033-2e46c3f811ba" />
+
+**Fruits Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/d437cf8a-4fdf-463a-a653-87c32032ba85" />
+
+**Vegetables Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/40314bcd-e4fc-4b41-9bdc-ae13a68dc106" />
+
+**Care Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/bd4adef6-cacc-48b0-a8fa-c5a11edf527a" />
+
+**Beverage Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/40aa75e0-b61b-4606-897f-c95593233479" />
+
+**Pharmacy Category of the Mobile App**
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/b0bb7db9-fbff-468d-80f7-29c159005505" />
+
+**Firebase Authentication page of the mobile app**
+<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/b6918faa-2846-4149-aff5-ae9baea63234" />
+
+**Firebase Realtime Database page of the mobile app**
+<img width="1919" height="864" alt="Image" src="https://github.com/user-attachments/assets/a553c996-cd4a-4d04-a261-5fa15af4c2a4" />
+
 
