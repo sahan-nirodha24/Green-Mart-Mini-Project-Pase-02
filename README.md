@@ -126,4 +126,19 @@ Green Mart is a mobile application designed for an online shopping platform, int
 **Firebase Realtime Database page of the mobile app**
 <img width="1919" height="864" alt="Image" src="https://github.com/user-attachments/assets/a553c996-cd4a-4d04-a261-5fa15af4c2a4" />
 
+### 📌 License
++ This project is open-source, and you are free to modify or enhance it as needed
+
+### 😊 OUR Group Members 
+
+   + *ITBNM-2211-0129 W.S.N. Fernando*
+
+   + *ITBNM-2211-0132 K.G.D.K Gunasekara*
+
+   + *ITBNM-2211-0136 J.M.P.M Jayakody*
+
+   + *ITBNM-2211-0144 G.D.V Lakshan*
+
+   + *ITBNM-2211-0181 M.P.S.J Rathnayaka*
+
 
